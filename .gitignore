@@ -1,5 +1,7 @@
 /bin/
 /target/
+/out/
+.iml
 .project
 .classpath
 .settings/
