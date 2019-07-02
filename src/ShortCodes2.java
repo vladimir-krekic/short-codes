@@ -135,7 +135,7 @@ public class ShortCodes2 {
     }
 
     /**
-     * Returns number of repetitions of the searched element of the list using ShortCodes2
+     * Returns number of repetitions of the searched element of the list using Streams
      * @param list - List<Integer>
      * @param numberToFind - int to find in list
      * @return - number of repetitions of the searched element of the list
@@ -163,7 +163,7 @@ public class ShortCodes2 {
     }
 
     /**
-     * Returns number of repetitions of the searched element of the 2D array using ShortCodes2
+     * Returns number of repetitions of the searched element of the 2D array using Streams
      * @param matrix - int[][]
      * @param numberToFind - int to find in 2D array
      * @return - number of repetitions of the searched element of the matrix
@@ -194,7 +194,7 @@ public class ShortCodes2 {
     }
 
     /**
-     * Returns number of repetitions of the searched element of the 3D array using ShortCodes2
+     * Returns number of repetitions of the searched element of the 3D array using Streams
      * @param cube - int[][]
      * @param numberToFind - int to find in 3D array
      * @return - number of repetitions of the searched element of the cube
